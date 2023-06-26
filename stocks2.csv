@@ -1,0 +1,504 @@
+﻿Symbol,Description,Market Capitalization,Sector,Industry,Sub-Industry,Price,Index,Price Change YTD,Performance vs. S&P 500 YTD,Performance vs. Industry YTD,Total Return 1 Year
+AAP,Advance Auto Parts Inc,$4B (Small),Consumer Discretionary,Specialty Retail,Automotive Retail,67.97,S&P 500,-53.77%,-58.89%,-53.79%,-62.28%
+ZION,Zions Bancorporation NA,$4B (Small),Financials,Banks,Regional Banks,26.97,S&P 500,-45.14%,-50.00%,-30.79%,-49.86%
+KEY,KeyCorp,$9B (Mid),Financials,Banks,Diversified Banks,9.56,S&P 500,-45.12%,-50.32%,-30.77%,-48.30%
+NWL,Newell Brands Inc,$3B (Small),Consumer Discretionary,Household Durables,Housewares & Specialties,7.92,S&P 500,-39.45%,-45.54%,-68.31%,-61.11%
+CMA,Comerica Inc,$5B (Small),Financials,Banks,Diversified Banks,40.85,S&P 500,-38.89%,-44.61%,-24.54%,-46.24%
+ENPH,Enphase Energy Inc,$22B (Mid),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Materials & Equipment,162.53,S&P 500,-38.66%,-44.24%,-101.82%,-10.94%
+SCHW,Charles Schwab Corp,$97B (Large),Financials,Capital Markets,Investment Banking & Brokerage,53.21,S&P 500,-36.09%,-42.99%,-32.85%,-22.41%
+CFG,Citizens Financial Group Inc,$13B (Mid),Financials,Banks,Regional Banks,26.07,S&P 500,-33.78%,-39.82%,-19.43%,-31.83%
+EPAM,Epam Systems Inc,$13B (Mid),Information Technology,IT Services,IT Consulting & Other Services,218.35,S&P 500,-33.38%,-42.12%,-43.96%,-33.08%
+MRNA,Moderna Inc,$46B (Large),Health Care,Biotechnology,Biotechnology,120.48,S&P 500,-32.93%,-40.72%,-23.91%,-15.98%
+VFC,VF Corp,$7B (Small),Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",18.94,S&P 500,-31.40%,-39.06%,-27.40%,-59.32%
+DG,Dollar General Corp,$38B (Mid),Consumer Staples,Consumer Staples Distribution & Retail,Consumer Staples Merchandise Retail,172.22,S&P 500,-30.06%,-40.34%,-34.07%,-20.54%
+APA,APA Corp (US),$10B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,33.21,S&P 500,-28.86%,-35.55%,-18.43%,-28.74%
+TFC,Truist Financial Corp,$41B (Mid),Financials,Banks,Regional Banks,30.61,S&P 500,-28.86%,-35.62%,-14.51%,-34.12%
+AES,AES Corp,$14B (Mid),Utilities,Independent Power & Renewable Electricity Producers,Independent Power Producers & Energy Traders,20.91,S&P 500,-27.29%,-35.84%,-4.48%,-1.87%
+HBAN,Huntington Bancshares Inc,$15B (Mid),Financials,Banks,Regional Banks,10.31,S&P 500,-26.88%,-33.63%,-12.53%,-19.19%
+IFF,International Flavors & Fragrances Inc,$20B (Mid),Materials,Chemicals,Specialty Chemicals,77.23,S&P 500,-26.34%,-34.43%,-29.02%,-38.99%
+USB,US Bancorp,$49B (Large),Financials,Banks,Diversified Banks,32.23,S&P 500,-26.09%,-32.58%,-11.74%,-34.79%
+MET,MetLife Inc,$41B (Mid),Financials,Insurance,Life & Health Insurance,53.86,S&P 500,-25.58%,-33.71%,-22.49%,-16.62%
+CVS,CVS Health Corp,$89B (Large),Health Care,Health Care Providers & Services,Health Care Services,69.41,S&P 500,-25.52%,-35.10%,-17.83%,-26.14%
+OGN,Organon & Co,$5B (Small),Health Care,Pharmaceuticals,Pharmaceuticals,20.91,S&P 500,-25.13%,-34.54%,-23.39%,-42.08%
+PFE,Pfizer Inc,$219B (Large),Health Care,Pharmaceuticals,Pharmaceuticals,38.73,S&P 500,-24.41%,-33.23%,-22.67%,-23.32%
+WAT,Waters Corp,$15B (Mid),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,260.27,S&P 500,-24.03%,-32.10%,-17.98%,-19.12%
+ARE,Alexandria Real Estate Equities Inc,$19B (Mid),Real Estate,Office REITs,Office REITs,110.85,S&P 500,-23.90%,-31.65%,--,-29.92%
+ETSY,ETSY Inc,$11B (Mid),Consumer Discretionary,Broadline Retail,Broadline Retail,92.14,S&P 500,-23.08%,-30.52%,-48.90%,13.84%
+INCY,Incyte Corp,$14B (Mid),Health Care,Biotechnology,Biotechnology,61.91,S&P 500,-22.92%,-32.23%,-13.90%,-17.43%
+BXP,Boston Properties Inc,$8B (Mid),Real Estate,Office REITs,Office REITs,52.30,S&P 500,-22.61%,-29.49%,--,-48.81%
+DVN,Devon Energy Corp,$31B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,47.69,S&P 500,-22.47%,-30.03%,-12.04%,-31.56%
+PEAK,Healthpeak Properties Inc,$11B (Mid),Real Estate,Health Care REITs,Health Care REITs,19.54,S&P 500,-22.06%,-30.29%,--,-30.03%
+SEE,Sealed Air Corp,$6B (Small),Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,38.94,S&P 500,-21.93%,-31.36%,--,-36.19%
+FITB,Fifth Third Bancorp,$17B (Mid),Financials,Banks,Diversified Banks,25.64,S&P 500,-21.85%,-28.97%,-7.50%,-31.03%
+PNC,PNC Financial Services Group Inc,$49B (Large),Financials,Banks,Diversified Banks,123.44,S&P 500,-21.84%,-29.47%,-7.49%,-25.45%
+LNC,Lincoln National Corp,$4B (Small),Financials,Insurance,Life & Health Insurance,24.13,S&P 500,-21.45%,-29.83%,-18.36%,-55.18%
+WRK,Westrock Co,$7B (Small),Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,27.62,S&P 500,-21.44%,-29.54%,--,-40.75%
+ADM,Archer-Daniels-Midland Co,$40B (Mid),Consumer Staples,Food Products,Agricultural Products & Services,73.06,S&P 500,-21.31%,-30.42%,-19.06%,-13.97%
+EL,Estee Lauder Companies Inc,$70B (Large),Consumer Staples,Personal Care Products,Personal Care Products,195.54,S&P 500,-21.19%,-30.97%,-13.00%,-21.01%
+FIS,Fidelity National Information Services Inc,$32B (Mid),Financials,Financial Services,Transaction & Payment Processing Services,53.54,S&P 500,-21.09%,-30.50%,-24.98%,-46.31%
+A,Agilent Technologies Inc,$35B (Mid),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,118.68,S&P 500,-20.69%,-30.46%,-14.65%,-2.94%
+SBAC,SBA Communications Corp,$24B (Mid),Real Estate,Specialized REITs,Telecom Tower REITs,222.58,S&P 500,-20.60%,-30.60%,--,-31.98%
+HAL,Halliburton Co,$28B (Mid),Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,31.27,S&P 500,-20.53%,-28.66%,-7.71%,-23.19%
+RF,Regions Financial Corp,$16B (Mid),Financials,Banks,Regional Banks,17.15,S&P 500,-20.45%,-27.84%,-6.10%,-16.79%
+ALL,Allstate Corp,$28B (Mid),Financials,Insurance,Property & Casualty Insurance,108.00,S&P 500,-20.35%,-30.13%,-17.26%,-16.99%
+MOS,Mosaic Co,$12B (Mid),Materials,Chemicals,Fertilizers & Agricultural Chemicals,35.09,S&P 500,-20.01%,-28.46%,-22.70%,-38.96%
+WRB,W R Berkley Corp,$15B (Mid),Financials,Insurance,Property & Casualty Insurance,58.47,S&P 500,-19.43%,-28.14%,-16.34%,-15.55%
+CPB,Campbell Soup Co,$14B (Mid),Consumer Staples,Food Products,Packaged Foods & Meats,45.78,S&P 500,-19.33%,-29.21%,-17.08%,0.25%
+NDAQ,Nasdaq Inc,$24B (Mid),Financials,Capital Markets,Financial Exchanges & Data,49.55,S&P 500,-19.23%,-27.52%,-15.99%,-0.58%
+CCI,Crown Castle Inc,$48B (Large),Real Estate,Specialized REITs,Telecom Tower REITs,109.65,S&P 500,-19.16%,-27.28%,--,-38.46%
+TSN,Tyson Foods Inc,$18B (Mid),Consumer Staples,Food Products,Packaged Foods & Meats,50.41,S&P 500,-19.02%,-28.70%,-16.77%,-41.04%
+MTB,M&T Bank Corp,$20B (Mid),Financials,Banks,Regional Banks,117.59,S&P 500,-18.94%,-25.94%,-4.59%,-31.66%
+NTRS,Northern Trust Corp,$15B (Mid),Financials,Capital Markets,Asset Management & Custody Banks,71.75,S&P 500,-18.92%,-27.50%,-15.68%,-31.28%
+CNC,Centene Corp,$37B (Mid),Health Care,Health Care Providers & Services,Managed Health Care,66.80,S&P 500,-18.55%,-29.21%,-10.86%,-17.74%
+LDOS,Leidos Holdings Inc,$12B (Mid),Industrials,Professional Services,Research & Consulting Services,86.00,S&P 500,-18.24%,-27.70%,-21.51%,-16.31%
+MRO,Marathon Oil Corp,$14B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,22.25,S&P 500,-17.81%,-25.15%,-7.38%,-28.07%
+RVTY,Revvity Inc,$14B (Mid),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,115.29,S&P 500,-17.78%,-27.68%,-11.73%,-20.92%
+CI,Cigna Group,$81B (Large),Health Care,Health Care Providers & Services,Health Care Services,275.33,S&P 500,-16.90%,-27.32%,-9.21%,6.23%
+EOG,EOG Resources Inc,$63B (Large),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,108.25,S&P 500,-16.42%,-24.02%,-6.00%,-16.73%
+CF,CF Industries Holdings Inc,$14B (Mid),Materials,Chemicals,Fertilizers & Agricultural Chemicals,71.23,S&P 500,-16.40%,-24.74%,-19.08%,-24.04%
+MMM,3M Co,$55B (Large),Industrials,Industrial Conglomerates,Industrial Conglomerates,100.43,S&P 500,-16.25%,-25.58%,-25.01%,-27.89%
+NOC,NORTHROP GRUMMAN CORP,$70B (Large),Industrials,Aerospace & Defense,Aerospace & Defense,458.06,S&P 500,-16.05%,-25.45%,-14.88%,0.14%
+ES,Eversource Energy,$25B (Mid),Utilities,Electric Utilities,Electric Utilities,70.75,S&P 500,-15.61%,-25.28%,-9.04%,-20.64%
+GEN,Gen Digital Inc,$12B (Mid),Information Technology,Software,Systems Software,18.09,S&P 500,-15.59%,-25.19%,-54.84%,-23.51%
+BAC,Bank of America Corp,$223B (Large),Financials,Banks,Diversified Banks,27.96,S&P 500,-15.58%,-24.13%,-1.23%,-21.23%
+AMCR,Amcor PLC,$15B (Mid),Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,10.07,S&P 500,-15.45%,-25.05%,--,-20.27%
+T,AT&T Inc,$111B (Large),Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,15.58,S&P 500,-15.37%,-25.43%,-3.05%,-22.10%
+ABBV,Abbvie Inc,$242B (Large),Health Care,Biotechnology,Biotechnology,137.41,S&P 500,-14.97%,-25.52%,-5.96%,-2.25%
+CVX,Chevron Corp,$287B (Large),Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,152.64,S&P 500,-14.96%,-24.11%,-4.53%,-10.32%
+PRU,Prudential Financial Inc,$31B (Mid),Financials,Insurance,Life & Health Insurance,84.66,S&P 500,-14.88%,-24.49%,-11.79%,-15.46%
+WBA,Walgreens Boots Alliance Inc,$28B (Mid),Consumer Staples,Consumer Staples Distribution & Retail,Drug Retail,31.89,S&P 500,-14.64%,-25.71%,-18.64%,-22.37%
+COP,Conocophillips,$123B (Large),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,101.43,S&P 500,-14.04%,-22.71%,-3.62%,-7.72%
+SEDG,Solaredge Technologies Inc,$14B (Mid),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Materials & Equipment,244.57,S&P 500,-13.66%,-21.76%,-76.82%,-10.24%
+PFG,Principal Financial Group Inc,$18B (Mid),Financials,Insurance,Life & Health Insurance,72.52,S&P 500,-13.58%,-23.35%,-10.49%,4.80%
+D,Dominion Energy Inc,$44B (Large),Utilities,Multi-Utilities,Multi-Utilities,53.00,S&P 500,-13.57%,-23.57%,-7.92%,-33.25%
+GD,General Dynamics Corp,$59B (Large),Industrials,Aerospace & Defense,Aerospace & Defense,214.45,S&P 500,-13.57%,-22.89%,-12.40%,-3.05%
+FMC,FMC Corp,$13B (Mid),Materials,Chemicals,Fertilizers & Agricultural Chemicals,107.91,S&P 500,-13.53%,-23.29%,-16.22%,-9.61%
+BIO,Bio Rad Laboratories Inc,$9B (Mid),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,364.78,S&P 500,-13.25%,-23.35%,-7.20%,-30.89%
+VLO,Valero Energy Corp,$40B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,110.39,S&P 500,-12.98%,-22.62%,-2.56%,-13.99%
+MOH,Molina Healthcare Inc,$17B (Mid),Health Care,Health Care Providers & Services,Managed Health Care,287.43,S&P 500,-12.96%,-24.63%,-5.27%,0.02%
+PSX,Phillips 66,$42B (Large),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,90.81,S&P 500,-12.75%,-21.18%,-2.33%,-8.33%
+AMGN,Amgen Inc,$123B (Large),Health Care,Biotechnology,Biotechnology,229.66,S&P 500,-12.56%,-23.97%,-3.54%,-6.36%
+SLB,Schlumberger NV,$67B (Large),Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,46.84,S&P 500,-12.38%,-21.43%,0.44%,2.18%
+PXD,Pioneer Natural Resources Co,$47B (Large),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,200.19,S&P 500,-12.35%,-21.73%,-1.92%,-20.20%
+ELV,Elevance Health Inc,$107B (Large),Health Care,Health Care Providers & Services,Managed Health Care,449.87,S&P 500,-12.30%,-23.70%,-4.61%,-8.60%
+AMT,American Tower Corp,$87B (Large),Real Estate,Specialized REITs,Telecom Tower REITs,186.43,S&P 500,-12.00%,-21.40%,--,-23.47%
+ETR,Entergy Corp,$21B (Mid),Utilities,Electric Utilities,Electric Utilities,99.18,S&P 500,-11.84%,-21.36%,-5.27%,-14.21%
+DUK,Duke Energy Corp,$70B (Large),Utilities,Electric Utilities,Electric Utilities,90.90,S&P 500,-11.74%,-21.74%,-5.17%,-15.29%
+GL,Globe Life Inc,$10B (Mid),Financials,Insurance,Life & Health Insurance,106.40,S&P 500,-11.74%,-22.05%,-8.65%,10.19%
+CB,Chubb Ltd,$81B (Large),Financials,Insurance,Property & Casualty Insurance,195.14,S&P 500,-11.54%,-22.69%,-8.45%,-4.46%
+AIG,American International Group Inc,$41B (Mid),Financials,Insurance,Multi-line Insurance,55.97,S&P 500,-11.50%,-21.48%,-8.40%,-0.26%
+OKE,ONEOK Inc,$26B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,58.19,S&P 500,-11.43%,-20.91%,-1.01%,-7.58%
+KHC,Kraft Heinz Co,$44B (Large),Consumer Staples,Food Products,Packaged Foods & Meats,36.07,S&P 500,-11.40%,-22.08%,-9.14%,0.94%
+DGX,Quest Diagnostics Inc,$16B (Mid),Health Care,Health Care Providers & Services,Health Care Services,138.79,S&P 500,-11.28%,-22.05%,-3.59%,2.11%
+IP,International Paper Co,$11B (Mid),Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,30.74,S&P 500,-11.23%,-20.97%,--,-31.90%
+BAX,Baxter International Inc,$23B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Equipment,45.25,S&P 500,-11.22%,-22.63%,-23.19%,-37.49%
+MTD,Mettler-Toledo International Inc,$28B (Mid),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,1283.37,S&P 500,-11.21%,-21.39%,-5.17%,1.58%
+TGT,Target Corp,$61B (Large),Consumer Staples,Consumer Staples Distribution & Retail,Consumer Staples Merchandise Retail,132.39,S&P 500,-11.17%,-21.39%,-15.17%,-13.23%
+CAG,Conagra Brands Inc,$16B (Mid),Consumer Staples,Food Products,Packaged Foods & Meats,34.39,S&P 500,-11.14%,-21.85%,-8.88%,9.67%
+KIM,Kimco Realty Corp,$12B (Mid),Real Estate,Retail REITs,Retail REITs,18.85,S&P 500,-11.00%,-20.69%,--,-13.33%
+DHR,Danaher Corp,$174B (Large),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,236.38,S&P 500,-10.94%,-21.23%,-4.90%,-9.07%
+HUM,Humana Inc,$57B (Large),Health Care,Health Care Providers & Services,Managed Health Care,456.44,S&P 500,-10.88%,-22.27%,-3.20%,2.66%
+HRL,Hormel Foods Corp,$22B (Mid),Consumer Staples,Food Products,Packaged Foods & Meats,40.61,S&P 500,-10.85%,-21.46%,-8.59%,-13.86%
+IEX,IDEX Corp,$15B (Mid),Industrials,Machinery,Industrial Machinery & Supplies & Components,203.62,S&P 500,-10.82%,-20.40%,-17.96%,7.66%
+NEM,Newmont Corporation,$33B (Mid),Materials,Metals & Mining,Gold,42.15,S&P 500,-10.70%,-20.66%,-15.05%,-34.50%
+NSC,Norfolk Southern Corp,$50B (Large),Industrials,Ground Transportation,Rail Transportation,220.11,S&P 500,-10.68%,-21.20%,-13.61%,-6.94%
+KDP,Keurig Dr Pepper Inc,$45B (Large),Consumer Staples,Beverages,Soft Drinks & Non-alcoholic Beverages,31.92,S&P 500,-10.49%,-21.72%,-12.61%,-5.80%
+XEL,Xcel Energy Inc,$35B (Mid),Utilities,Electric Utilities,Electric Utilities,62.76,S&P 500,-10.48%,-21.21%,-3.91%,-13.32%
+AEP,American Electric Power Company Inc,$44B (Large),Utilities,Electric Utilities,Electric Utilities,85.10,S&P 500,-10.37%,-20.85%,-3.80%,-13.59%
+BBWI,Bath & Body Works Inc,$9B (Mid),Consumer Discretionary,Specialty Retail,Other Specialty Retail,37.81,S&P 500,-10.28%,-19.52%,-10.29%,-1.86%
+OXY,Occidental Petroleum Corp,$51B (Large),Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,56.52,S&P 500,-10.27%,-19.76%,0.15%,-18.78%
+NEE,Nextera Energy Inc,$152B (Large),Utilities,Electric Utilities,Electric Utilities,75.13,S&P 500,-10.13%,-20.28%,-3.56%,0.90%
+IVZ,Invesco Ltd,$7B (Small),Financials,Capital Markets,Asset Management & Custody Banks,16.18,S&P 500,-10.06%,-19.29%,-6.82%,-11.36%
+VTRS,Viatris Inc,$12B (Mid),Health Care,Pharmaceuticals,Pharmaceuticals,10.05,S&P 500,-9.70%,-20.11%,-7.96%,-12.77%
+UNH,UnitedHealth Group Inc,$446B (Large),Health Care,Health Care Providers & Services,Managed Health Care,479.05,S&P 500,-9.64%,-20.92%,-1.95%,-1.03%
+FRT,Federal Realty Investment Trust,$7B (Small),Real Estate,Retail REITs,Retail REITs,91.31,S&P 500,-9.63%,-19.60%,--,-15.10%
+BMY,Bristol-Myers Squibb Co,$137B (Large),Health Care,Pharmaceuticals,Pharmaceuticals,65.30,S&P 500,-9.24%,-19.94%,-7.50%,-10.18%
+GILD,Gilead Sciences Inc,$97B (Large),Health Care,Biotechnology,Biotechnology,78.11,S&P 500,-9.02%,-20.49%,0.00%,26.91%
+VZ,Verizon Communications Inc,$151B (Large),Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,35.85,S&P 500,-9.01%,-20.02%,3.32%,-25.85%
+EMR,Emerson Electric Co,$50B (Large),Industrials,Electrical Equipment,Electrical Components & Equipment,87.42,S&P 500,-8.99%,-19.94%,-22.00%,1.09%
+KMI,Kinder Morgan Inc,$37B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,16.49,S&P 500,-8.79%,-19.06%,1.63%,-12.32%
+PPL,PPL Corp,$20B (Mid),Utilities,Electric Utilities,Electric Utilities,26.72,S&P 500,-8.56%,-19.07%,-1.99%,-6.89%
+RJF,Raymond James Financial Inc,$21B (Mid),Financials,Capital Markets,Investment Banking & Brokerage,98.29,S&P 500,-8.01%,-17.81%,-4.77%,2.15%
+FANG,Diamondback Energy Inc,$23B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,125.85,S&P 500,-7.99%,-17.91%,2.43%,-12.27%
+K,Kellogg Co,$22B (Mid),Consumer Staples,Food Products,Packaged Foods & Meats,65.55,S&P 500,-7.99%,-19.46%,-5.73%,-1.72%
+PARA,Paramount Global,$9B (Mid),Communication Services,Media,Broadcasting,15.55,S&P 500,-7.88%,-17.99%,-16.56%,-49.60%
+ADP,Automatic Data Processing Inc,$91B (Large),Industrials,Professional Services,Human Resource & Employment Services,220.40,S&P 500,-7.73%,-18.79%,-11.00%,3.07%
+TECH,Bio-Techne Corp,$12B (Mid),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,76.51,S&P 500,-7.69%,-18.66%,-1.64%,-14.64%
+JKHY,Jack Henry & Associates Inc,$12B (Mid),Financials,Financial Services,Transaction & Payment Processing Services,162.26,S&P 500,-7.58%,-17.71%,-11.46%,-11.78%
+HIG,Hartford Financial Services Group Inc,$22B (Mid),Financials,Insurance,Multi-line Insurance,70.10,S&P 500,-7.56%,-17.91%,-4.47%,0.66%
+TXT,Textron Inc,$13B (Mid),Industrials,Aerospace & Defense,Aerospace & Defense,65.45,S&P 500,-7.56%,-17.32%,-6.39%,0.36%
+AEE,Ameren Corp,$22B (Mid),Utilities,Multi-Utilities,Multi-Utilities,82.29,S&P 500,-7.46%,-17.71%,-1.80%,-9.72%
+EVRG,Evergy Inc,$13B (Mid),Utilities,Electric Utilities,Electric Utilities,58.30,S&P 500,-7.36%,-17.53%,-0.79%,-13.39%
+DPZ,Domino's Pizza Inc,$11B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,321.04,S&P 500,-7.32%,-17.97%,-24.72%,-9.50%
+AVY,Avery Dennison Corp,$14B (Mid),Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,167.91,S&P 500,-7.23%,-17.50%,--,-1.32%
+SPG,Simon Property Group Inc,$36B (Mid),Real Estate,Retail REITs,Retail REITs,109.08,S&P 500,-7.15%,-17.11%,--,6.18%
+WMB,Williams Companies Inc,$37B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,30.57,S&P 500,-7.08%,-17.61%,3.34%,-12.74%
+ROST,Ross Stores Inc,$37B (Mid),Consumer Discretionary,Specialty Retail,Apparel Retail,107.96,S&P 500,-6.99%,-18.74%,-7.00%,32.76%
+GPC,Genuine Parts Co,$23B (Mid),Consumer Discretionary,Distributors,Distributors,161.49,S&P 500,-6.93%,-18.16%,-7.89%,22.43%
+GS,Goldman Sachs Group Inc,$106B (Large),Financials,Capital Markets,Investment Banking & Brokerage,319.58,S&P 500,-6.93%,-16.74%,-3.69%,2.19%
+STT,State Street Corp,$24B (Mid),Financials,Capital Markets,Asset Management & Custody Banks,72.21,S&P 500,-6.91%,-17.20%,-3.67%,6.98%
+IBM,International Business Machines Corp,$119B (Large),Information Technology,IT Services,IT Consulting & Other Services,131.17,S&P 500,-6.90%,-16.55%,-17.48%,-1.09%
+LHX,L3Harris Technologies Inc,$37B (Mid),Industrials,Aerospace & Defense,Aerospace & Defense,194.10,S&P 500,-6.78%,-17.05%,-5.61%,-17.45%
+TRV,Travelers Companies Inc,$40B (Mid),Financials,Insurance,Property & Casualty Insurance,175.01,S&P 500,-6.66%,-17.78%,-3.57%,1.98%
+APD,Air Products and Chemicals Inc,$64B (Large),Materials,Chemicals,Industrial Gases,288.01,S&P 500,-6.57%,-17.51%,-9.25%,21.29%
+KEYS,Keysight Technologies Inc,$29B (Mid),Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,159.89,S&P 500,-6.54%,-17.15%,-15.14%,11.38%
+BG,Bunge Ltd,$14B (Mid),Consumer Staples,Food Products,Agricultural Products & Services,93.27,S&P 500,-6.51%,-19.06%,-4.26%,-16.12%
+FE,FirstEnergy Corp,$22B (Mid),Utilities,Electric Utilities,Electric Utilities,39.22,S&P 500,-6.49%,-17.27%,0.08%,-4.07%
+HON,Honeywell International Inc,$134B (Large),Industrials,Industrial Conglomerates,Industrial Conglomerates,200.65,S&P 500,-6.37%,-17.18%,-15.13%,6.71%
+XOM,Exxon Mobil Corp,$418B (Large),Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,103.30,S&P 500,-6.35%,-17.18%,4.08%,9.23%
+CRL,Charles River Laboratories International Inc,$10B (Mid),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,204.17,S&P 500,-6.30%,-16.73%,-0.26%,-11.11%
+JNJ,Johnson & Johnson,$430B (Large),Health Care,Pharmaceuticals,Pharmaceuticals,165.62,S&P 500,-6.24%,-18.41%,-4.50%,-4.17%
+O,Realty Income Corp,$40B (Mid),Real Estate,Retail REITs,Retail REITs,59.47,S&P 500,-6.24%,-17.35%,--,-8.46%
+EXC,Exelon Corp,$40B (Mid),Utilities,Electric Utilities,Electric Utilities,40.54,S&P 500,-6.22%,-16.77%,0.35%,-14.80%
+AFL,Aflac Inc,$41B (Mid),Financials,Insurance,Life & Health Insurance,67.54,S&P 500,-6.12%,-17.44%,-3.03%,15.74%
+CMS,CMS Energy Corp,$17B (Mid),Utilities,Multi-Utilities,Multi-Utilities,59.61,S&P 500,-5.87%,-16.19%,-0.22%,-13.20%
+REG,Regency Centers Corp,$10B (Mid),Real Estate,Retail REITs,Retail REITs,58.89,S&P 500,-5.78%,-16.08%,--,-7.77%
+HES,Hess Corp,$41B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,133.65,S&P 500,-5.76%,-17.47%,4.66%,6.49%
+NKE,Nike Inc,$170B (Large),Consumer Discretionary,"Textiles, Apparel & Luxury Goods",Footwear,110.46,S&P 500,-5.60%,-17.34%,-1.59%,-5.56%
+HII,Huntington Ingalls Industries Inc,$9B (Mid),Industrials,Aerospace & Defense,Aerospace & Defense,217.95,S&P 500,-5.52%,-16.25%,-4.36%,5.88%
+PM,Philip Morris International Inc,$149B (Large),Consumer Staples,Tobacco,Tobacco,95.69,S&P 500,-5.45%,-16.28%,-0.50%,-3.35%
+SRE,Sempra,$46B (Large),Utilities,Multi-Utilities,Multi-Utilities,146.52,S&P 500,-5.19%,-15.49%,0.46%,-7.65%
+MAA,Mid-America Apartment Communities Inc,$17B (Mid),Real Estate,Residential REITs,Multi-Family Residential REITs,149.09,S&P 500,-5.03%,-15.01%,--,-14.18%
+BK,Bank of New York Mellon Corp,$34B (Mid),Financials,Capital Markets,Asset Management & Custody Banks,43.25,S&P 500,-4.99%,-14.99%,-1.75%,-1.98%
+CINF,Cincinnati Financial Corp,$15B (Mid),Financials,Insurance,Property & Casualty Insurance,97.43,S&P 500,-4.84%,-15.83%,-1.75%,-20.08%
+MKTX,Marketaxess Holdings Inc,$10B (Mid),Financials,Capital Markets,Financial Exchanges & Data,265.44,S&P 500,-4.82%,-15.83%,-1.58%,-3.18%
+WEC,WEC Energy Group Inc,$28B (Mid),Utilities,Multi-Utilities,Multi-Utilities,89.28,S&P 500,-4.78%,-14.93%,0.87%,-11.96%
+LMT,Lockheed Martin Corp,$118B (Large),Industrials,Aerospace & Defense,Aerospace & Defense,463.43,S&P 500,-4.74%,-15.75%,-3.58%,8.25%
+CMI,Cummins Inc,$33B (Mid),Industrials,Machinery,Construction Machinery & Heavy Transportation Equipment,230.94,S&P 500,-4.68%,-15.33%,-11.82%,14.12%
+HD,Home Depot Inc,$303B (Large),Consumer Discretionary,Specialty Retail,Home Improvement Retail,301.18,S&P 500,-4.65%,-16.27%,-4.66%,4.11%
+LNT,Alliant Energy Corp,$13B (Mid),Utilities,Electric Utilities,Electric Utilities,52.73,S&P 500,-4.49%,-15.14%,2.08%,-13.81%
+JNPR,Juniper Networks Inc,$10B (Mid),Information Technology,Communications Equipment,Communications Equipment,30.57,S&P 500,-4.35%,-15.24%,-11.99%,2.26%
+MO,Altria Group Inc,$78B (Large),Consumer Staples,Tobacco,Tobacco,43.76,S&P 500,-4.27%,-15.44%,0.69%,-10.25%
+MPC,Marathon Petroleum Corp,$47B (Large),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,111.42,S&P 500,-4.27%,-15.37%,6.15%,9.94%
+SYY,Sysco Corp,$37B (Mid),Consumer Staples,Consumer Staples Distribution & Retail,Food Distributors,73.24,S&P 500,-4.20%,-16.48%,-8.20%,-9.80%
+BLK,BlackRock Inc,$102B (Large),Financials,Capital Markets,Asset Management & Custody Banks,679.38,S&P 500,-4.13%,-14.48%,-0.89%,6.63%
+SJM,J M Smucker Co,$16B (Mid),Consumer Staples,Food Products,Packaged Foods & Meats,152.02,S&P 500,-4.06%,-15.37%,-1.81%,25.50%
+TMO,Thermo Fisher Scientific Inc,$204B (Large),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,528.31,S&P 500,-4.06%,-16.00%,1.98%,-4.74%
+TMUS,T-Mobile US Inc,$161B (Large),Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,134.34,S&P 500,-4.04%,-16.65%,-0.12%,-0.16%
+RHI,Robert Half International Inc,$8B (Mid),Industrials,Professional Services,Human Resource & Employment Services,70.91,S&P 500,-3.96%,-14.54%,-7.23%,-16.48%
+RTX,Raytheon Technologies Corp,$142B (Large),Industrials,Aerospace & Defense,Aerospace & Defense,96.92,S&P 500,-3.96%,-13.67%,-2.80%,4.63%
+VICI,VICI Properties Inc,$31B (Mid),Real Estate,Specialized REITs,Other Specialized REITs,31.12,S&P 500,-3.95%,-15.47%,--,7.32%
+DTE,DTE Energy Co,$23B (Mid),Utilities,Multi-Utilities,Multi-Utilities,112.94,S&P 500,-3.91%,-14.98%,1.75%,-11.37%
+CHTR,Charter Communications Inc,$49B (Large),Communication Services,Media,Cable & Satellite,325.91,S&P 500,-3.89%,-14.73%,-12.58%,-34.21%
+WTW,Willis Towers Watson PLC,$25B (Mid),Financials,Insurance,Insurance Brokers,235.40,S&P 500,-3.75%,-16.32%,-0.66%,14.64%
+PYPL,PayPal Holdings Inc,$77B (Large),Financials,Financial Services,Transaction & Payment Processing Services,68.57,S&P 500,-3.72%,-15.79%,-7.61%,-16.86%
+EMN,Eastman Chemical Co,$9B (Mid),Materials,Chemicals,Specialty Chemicals,78.42,S&P 500,-3.71%,-14.25%,-6.39%,-25.15%
+PAYX,Paychex Inc,$40B (Mid),Industrials,Professional Services,Human Resource & Employment Services,111.27,S&P 500,-3.71%,-14.11%,-6.98%,-6.41%
+MHK,Mohawk Industries Inc,$6B (Small),Consumer Discretionary,Household Durables,Home Furnishings,98.52,S&P 500,-3.62%,-13.38%,-32.48%,-29.43%
+BEN,Franklin Resources Inc,$13B (Mid),Financials,Capital Markets,Asset Management & Custody Banks,25.46,S&P 500,-3.49%,-12.89%,-0.25%,0.51%
+ED,Consolidated Edison Inc,$32B (Mid),Utilities,Multi-Utilities,Multi-Utilities,92.12,S&P 500,-3.35%,-14.26%,2.31%,-3.39%
+CPT,Camden Property Trust,$12B (Mid),Real Estate,Residential REITs,Multi-Family Residential REITs,108.28,S&P 500,-3.22%,-12.78%,--,-22.07%
+TRGP,Targa Resources Corp,$16B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,71.18,S&P 500,-3.16%,-13.91%,7.27%,-3.09%
+J,Jacobs Solutions Inc,$15B (Mid),Industrials,Professional Services,Research & Consulting Services,116.38,S&P 500,-3.07%,-15.78%,-6.34%,-15.49%
+DE,Deere & Co,$122B (Large),Industrials,Machinery,Agricultural & Farm Machinery,415.69,S&P 500,-3.05%,-14.55%,-10.19%,19.57%
+GIS,General Mills Inc,$48B (Large),Consumer Staples,Food Products,Packaged Foods & Meats,81.30,S&P 500,-3.04%,-14.64%,-0.79%,20.79%
+CNP,CenterPoint Energy Inc,$18B (Mid),Utilities,Multi-Utilities,Multi-Utilities,29.11,S&P 500,-2.93%,-13.70%,2.72%,-6.92%
+ULTA,Ulta Beauty Inc,$23B (Mid),Consumer Discretionary,Specialty Retail,Other Specialty Retail,455.71,S&P 500,-2.85%,-15.59%,-2.87%,11.88%
+KO,Coca-Cola Co,$267B (Large),Consumer Staples,Beverages,Soft Drinks & Non-alcoholic Beverages,61.85,S&P 500,-2.77%,-15.07%,-4.89%,1.74%
+EXR,Extra Space Storage Inc,$19B (Mid),Real Estate,Specialized REITs,Self-Storage REITs,143.21,S&P 500,-2.70%,-12.75%,--,-15.88%
+CTRA,Coterra Energy Inc,$18B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,23.92,S&P 500,-2.65%,-12.59%,7.78%,-26.52%
+AWK,American Water Works Company Inc,$29B (Mid),Utilities,Water Utilities,Water Utilities,148.50,S&P 500,-2.57%,-14.23%,3.78%,-0.48%
+TFX,Teleflex Inc,$11B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Equipment,243.43,S&P 500,-2.48%,-13.72%,-14.45%,-13.45%
+TSCO,Tractor Supply Co,$24B (Mid),Consumer Discretionary,Specialty Retail,Other Specialty Retail,219.64,S&P 500,-2.37%,-13.82%,-2.39%,17.30%
+TROW,T Rowe Price Group Inc,$24B (Mid),Financials,Capital Markets,Asset Management & Custody Banks,106.56,S&P 500,-2.29%,-11.10%,0.95%,-9.20%
+UNP,Union Pacific Corp,$124B (Large),Industrials,Ground Transportation,Rail Transportation,203.37,S&P 500,-1.79%,-13.51%,-4.72%,-5.76%
+CTLT,Catalent Inc,$8B (Mid),Health Care,Pharmaceuticals,Pharmaceuticals,44.21,S&P 500,-1.78%,-15.02%,-0.04%,-57.69%
+CTVA,Corteva Inc,$41B (Mid),Materials,Chemicals,Fertilizers & Agricultural Chemicals,57.89,S&P 500,-1.51%,-12.37%,-4.20%,-6.20%
+BBY,Best Buy Co Inc,$17B (Mid),Consumer Discretionary,Specialty Retail,Computer & Electronics Retail,79.05,S&P 500,-1.45%,-13.36%,-1.46%,4.72%
+UPS,United Parcel Service Inc,$147B (Large),Industrials,Air Freight & Logistics,Air Freight & Logistics,171.38,S&P 500,-1.42%,-12.16%,-9.17%,-1.51%
+ABT,Abbott Laboratories,$188B (Large),Health Care,Health Care Equipment & Supplies,Health Care Equipment,108.25,S&P 500,-1.40%,-14.89%,-13.37%,-4.16%
+VTR,Ventas Inc,$18B (Mid),Real Estate,Health Care REITs,Health Care REITs,44.49,S&P 500,-1.24%,-12.23%,--,-18.06%
+HAS,Hasbro Inc,$8B (Mid),Consumer Discretionary,Leisure Products,Leisure Products,60.27,S&P 500,-1.21%,-13.22%,-4.76%,-29.63%
+DD,Dupont De Nemours Inc,$31B (Mid),Materials,Chemicals,Specialty Chemicals,67.84,S&P 500,-1.15%,-12.32%,-3.84%,2.72%
+PAYC,Paycom Software Inc,$18B (Mid),Industrials,Professional Services,Human Resource & Employment Services,306.75,S&P 500,-1.15%,-11.45%,-4.42%,8.85%
+AZO,Autozone Inc,$44B (Large),Consumer Discretionary,Specialty Retail,Automotive Retail,2438.63,S&P 500,-1.12%,-12.76%,-1.13%,19.83%
+PG,Procter & Gamble Co,$353B (Large),Consumer Staples,Household Products,Household Products,149.95,S&P 500,-1.06%,-13.28%,-1.59%,5.68%
+MTCH,Match Group Inc,$11B (Mid),Communication Services,Interactive Media & Services,Interactive Media & Services,41.06,S&P 500,-1.04%,-13.07%,-60.26%,-48.18%
+PODD,Insulet Corp,$20B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Equipment,291.41,S&P 500,-1.01%,-13.64%,-12.98%,40.52%
+CL,Colgate-Palmolive Co,$65B (Large),Consumer Staples,Household Products,Household Products,78.00,S&P 500,-1.00%,-13.36%,-1.53%,2.30%
+NI,NiSource Inc,$11B (Mid),Utilities,Multi-Utilities,Multi-Utilities,27.15,S&P 500,-0.98%,-11.80%,4.67%,-10.25%
+CBRE,CBRE Group Inc,$24B (Mid),Real Estate,Real Estate Management & Development,Real Estate Services,76.24,S&P 500,-0.94%,-12.33%,--,-4.21%
+CAT,Caterpillar Inc,$122B (Large),Industrials,Machinery,Construction Machinery & Heavy Transportation Equipment,237.34,S&P 500,-0.93%,-11.35%,-8.06%,11.71%
+MS,Morgan Stanley,$141B (Large),Financials,Capital Markets,Investment Banking & Brokerage,84.50,S&P 500,-0.61%,-10.69%,2.63%,3.03%
+WFC,Wells Fargo & Co,$154B (Large),Financials,Banks,Diversified Banks,41.06,S&P 500,-0.56%,-11.29%,13.79%,-6.55%
+SYF,Synchrony Financial,$14B (Mid),Financials,Consumer Finance,Consumer Finance,32.68,S&P 500,-0.55%,-12.19%,-13.34%,-6.36%
+NDSN,Nordson Corp,$13B (Mid),Industrials,Machinery,Industrial Machinery & Supplies & Components,236.52,S&P 500,-0.50%,-12.56%,-7.64%,11.06%
+WY,Weyerhaeuser Co,$23B (Mid),Real Estate,Specialized REITs,Timber REITs,30.85,S&P 500,-0.48%,-9.97%,--,-15.82%
+TDY,Teledyne Technologies Inc,$19B (Mid),Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,398.92,S&P 500,-0.25%,-11.61%,-8.85%,0.02%
+LH,Laboratory Corporation of America Holdings,$21B (Mid),Health Care,Health Care Providers & Services,Health Care Services,234.91,S&P 500,-0.24%,-12.99%,7.45%,-3.27%
+HSIC,Henry Schein Inc,$10B (Mid),Health Care,Health Care Providers & Services,Health Care Distributors,79.71,S&P 500,-0.20%,-12.26%,7.49%,-5.42%
+L,Loews Corp,$13B (Mid),Financials,Insurance,Property & Casualty Insurance,58.22,S&P 500,-0.19%,-12.20%,2.90%,-9.70%
+SO,Southern Co,$78B (Large),Utilities,Electric Utilities,Electric Utilities,71.30,S&P 500,-0.15%,-11.77%,6.42%,-1.86%
+TRMB,Trimble Inc,$13B (Mid),Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,50.51,S&P 500,-0.10%,-11.86%,-8.70%,-24.88%
+CDW,CDW Corp,$24B (Mid),Information Technology,"Electronic Equipment, Instruments & Components",Technology Distributors,178.53,S&P 500,-0.03%,-12.97%,-8.63%,5.56%
+ILMN,Illumina Inc,$32B (Mid),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,202.15,S&P 500,-0.02%,-13.07%,6.02%,-14.05%
+BF/B,Brown-Forman Corp,$20B (Mid),Consumer Staples,Beverages,Distillers & Vintners,65.84,S&P 500,0.24%,-11.20%,-1.88%,1.98%
+GPN,Global Payments Inc,$26B (Mid),Financials,Financial Services,Transaction & Payment Processing Services,99.62,S&P 500,0.30%,-11.75%,-3.58%,-20.98%
+MSCI,MSCI Inc,$37B (Mid),Financials,Capital Markets,Financial Exchanges & Data,467.20,S&P 500,0.44%,-10.26%,3.68%,9.42%
+CHRW,CH Robinson Worldwide Inc,$11B (Mid),Industrials,Air Freight & Logistics,Air Freight & Logistics,92.04,S&P 500,0.52%,-10.27%,-7.23%,-13.06%
+CDAY,Ceridian HCM Holding Inc,$10B (Mid),Industrials,Professional Services,Human Resource & Employment Services,64.61,S&P 500,0.72%,-9.91%,-2.55%,20.12%
+FDS,Factset Research Systems Inc,$15B (Mid),Financials,Capital Markets,Financial Exchanges & Data,404.15,S&P 500,0.73%,-7.20%,3.97%,8.83%
+WHR,Whirlpool Corp,$8B (Mid),Consumer Discretionary,Household Durables,Household Appliances,142.59,S&P 500,0.80%,-10.06%,-28.06%,-17.07%
+FFIV,F5 Inc,$9B (Mid),Information Technology,Communications Equipment,Communications Equipment,144.86,S&P 500,0.94%,-10.74%,-6.70%,-10.52%
+PSA,Public Storage,$50B (Large),Real Estate,Specialized REITs,Self-Storage REITs,283.30,S&P 500,1.11%,-9.68%,--,-7.18%
+DXC,DXC Technology Co,$6B (Small),Information Technology,IT Services,IT Consulting & Other Services,26.81,S&P 500,1.17%,-10.06%,-9.41%,-22.45%
+JBHT,J B Hunt Transport Services Inc,$18B (Mid),Industrials,Ground Transportation,Cargo Ground Transportation,176.58,S&P 500,1.27%,-11.04%,-1.66%,3.06%
+KMB,Kimberly-Clark Corp,$46B (Large),Consumer Staples,Household Products,Household Products,137.49,S&P 500,1.28%,-10.50%,0.76%,9.44%
+PEG,Public Service Enterprise Group Inc,$31B (Mid),Utilities,Multi-Utilities,Multi-Utilities,62.11,S&P 500,1.37%,-10.17%,7.02%,-4.71%
+BDX,Becton Dickinson and Co,$73B (Large),Health Care,Health Care Equipment & Supplies,Health Care Equipment,258.07,S&P 500,1.48%,-11.01%,-10.49%,4.51%
+PGR,Progressive Corp,$77B (Large),Financials,Insurance,Property & Casualty Insurance,131.76,S&P 500,1.58%,-11.45%,4.67%,11.57%
+SBUX,Starbucks Corp,$116B (Large),Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,100.85,S&P 500,1.66%,-9.69%,-15.73%,35.07%
+XYL,Xylem Inc,$27B (Mid),Industrials,Machinery,Industrial Machinery & Supplies & Components,112.43,S&P 500,1.68%,-9.70%,-5.46%,35.92%
+LUV,Southwest Airlines Co,$20B (Mid),Industrials,Passenger Airlines,Passenger Airlines,34.28,S&P 500,1.81%,-10.28%,-22.74%,-21.12%
+DIS,Walt Disney Co,$162B (Large),Communication Services,Entertainment,Movies & Entertainment,88.49,S&P 500,1.85%,-10.27%,-17.14%,-18.96%
+DLTR,Dollar Tree Inc,$32B (Mid),Consumer Staples,Consumer Staples Distribution & Retail,Consumer Staples Merchandise Retail,144.07,S&P 500,1.86%,-11.23%,-2.14%,-10.52%
+DOW,Dow Inc,$36B (Mid),Materials,Chemicals,Commodity Chemicals,51.39,S&P 500,1.98%,-9.45%,-0.70%,-20.41%
+JCI,Johnson Controls International PLC,$45B (Large),Industrials,Building Products,Building Products,65.34,S&P 500,2.09%,-8.64%,-16.60%,24.86%
+BKR,Baker Hughes Co,$31B (Mid),Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,30.15,S&P 500,2.10%,-9.19%,14.92%,-17.19%
+LKQ,LKQ Corp,$15B (Mid),Consumer Discretionary,Distributors,Distributors,54.60,S&P 500,2.23%,-9.47%,1.27%,10.15%
+PKG,Packaging Corp of America,$12B (Mid),Materials,Containers & Packaging,Paper & Plastic Packaging Products & Materials,130.81,S&P 500,2.27%,-9.47%,--,-12.82%
+TJX,TJX Companies Inc,$94B (Large),Consumer Discretionary,Specialty Retail,Apparel Retail,81.48,S&P 500,2.36%,-10.65%,2.34%,32.58%
+MRK,Merck & Co Inc,$289B (Large),Health Care,Pharmaceuticals,Pharmaceuticals,113.72,S&P 500,2.50%,-11.89%,4.24%,29.40%
+EA,Electronic Arts Inc,$34B (Mid),Communication Services,Entertainment,Interactive Home Entertainment,125.45,S&P 500,2.68%,-10.33%,-16.31%,-9.41%
+HST,Host Hotels & Resorts Inc,$12B (Mid),Real Estate,Hotel & Resort REITs,Hotel & Resort REITs,16.50,S&P 500,2.80%,-8.82%,--,-16.02%
+IT,Gartner Inc,$27B (Mid),Information Technology,IT Services,IT Consulting & Other Services,345.95,S&P 500,2.92%,-8.31%,-7.66%,32.62%
+AMP,Ameriprise Financial Inc,$33B (Mid),Financials,Capital Markets,Asset Management & Custody Banks,320.63,S&P 500,2.97%,-9.25%,6.21%,20.60%
+WAB,Westinghouse Air Brake Technologies Corp,$18B (Mid),Industrials,Machinery,Construction Machinery & Heavy Transportation Equipment,102.84,S&P 500,3.04%,-8.87%,-4.10%,11.06%
+C,Citigroup Inc,$91B (Large),Financials,Banks,Diversified Banks,46.63,S&P 500,3.10%,-7.81%,17.45%,-7.17%
+KR,Kroger Co,$33B (Mid),Consumer Staples,Consumer Staples Distribution & Retail,Food Retail,46.07,S&P 500,3.34%,-9.88%,-0.66%,-8.27%
+ATO,Atmos Energy Corp,$17B (Mid),Utilities,Gas Utilities,Gas Utilities,115.95,S&P 500,3.46%,-7.73%,10.16%,2.09%
+NWS,News Corp,-- ,Communication Services,Media,Publishing,19.08,S&P 500,3.47%,--,-5.21%,11.10%
+NWSA,News Corp,$7B (Small),Communication Services,Media,Publishing,18.84,S&P 500,3.52%,-6.88%,-5.17%,10.81%
+CEG,Constellation Energy Corp,$29B (Mid),Utilities,Electric Utilities,Electric Utilities,89.25,S&P 500,3.53%,-7.68%,10.10%,41.69%
+PEP,PepsiCo Inc,$258B (Large),Consumer Staples,Beverages,Soft Drinks & Non-alcoholic Beverages,187.35,S&P 500,3.70%,-9.73%,1.58%,16.37%
+SHW,Sherwin-Williams Co,$64B (Large),Materials,Chemicals,Specialty Chemicals,246.28,S&P 500,3.77%,-8.37%,1.09%,-6.20%
+RMD,Resmed Inc,$32B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Equipment,216.52,S&P 500,4.03%,-8.41%,-7.94%,7.65%
+JPM,JPMorgan Chase & Co,$408B (Large),Financials,Banks,Diversified Banks,139.58,S&P 500,4.09%,-6.66%,18.44%,11.04%
+ALB,Albemarle Corp,$27B (Mid),Materials,Chemicals,Specialty Chemicals,226.00,S&P 500,4.21%,-6.57%,1.53%,-5.12%
+IQV,IQVIA Holdings Inc,$40B (Mid),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,213.62,S&P 500,4.26%,-8.22%,10.31%,1.67%
+TXN,Texas Instruments Inc,$157B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,172.63,S&P 500,4.48%,-9.25%,-58.67%,1.91%
+ZBRA,Zebra Technologies Corp,$14B (Mid),Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,267.91,S&P 500,4.49%,-7.09%,-4.12%,-19.92%
+FCX,Freeport-McMoRan Inc,$57B (Large),Materials,Metals & Mining,Copper,39.72,S&P 500,4.53%,-7.96%,0.17%,2.01%
+AKAM,Akamai Technologies Inc,$13B (Mid),Information Technology,IT Services,Internet Services & Infrastructure,88.26,S&P 500,4.70%,-8.12%,-5.89%,-12.73%
+CE,Celanese Corp,$12B (Mid),Materials,Chemicals,Specialty Chemicals,107.13,S&P 500,4.78%,-6.65%,2.10%,-29.18%
+STLD,Steel Dynamics Inc,$17B (Mid),Materials,Metals & Mining,Steel,102.42,S&P 500,4.83%,-8.08%,0.48%,24.07%
+AIZ,Assurant Inc,$7B (Small),Financials,Insurance,Multi-line Insurance,131.28,S&P 500,4.97%,-7.64%,8.06%,-24.80%
+HPE,Hewlett Packard Enterprise Co,$22B (Mid),Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",16.78,S&P 500,5.14%,-7.31%,--,10.73%
+DLR,Digital Realty Trust Inc,$31B (Mid),Real Estate,Specialized REITs,Data Center REITs,105.47,S&P 500,5.19%,-8.48%,--,-18.99%
+PLD,Prologis Inc,$110B (Large),Real Estate,Industrial REITs,Industrial REITs,118.66,S&P 500,5.26%,-5.84%,--,-2.40%
+DOV,Dover Corp,$20B (Mid),Industrials,Machinery,Industrial Machinery & Supplies & Components,142.61,S&P 500,5.32%,-6.31%,-1.82%,8.99%
+EBAY,eBay Inc,$23B (Mid),Consumer Discretionary,Broadline Retail,Broadline Retail,43.87,S&P 500,5.79%,-6.48%,-20.04%,-4.58%
+STZ,Constellation Brands Inc,$45B (Large),Consumer Staples,Beverages,Distillers & Vintners,245.27,S&P 500,5.83%,-6.54%,3.71%,1.87%
+APTV,Aptiv PLC,$28B (Mid),Consumer Discretionary,Automobile Components,Automotive Parts & Equipment,98.60,S&P 500,5.87%,-5.78%,-2.83%,-8.30%
+QCOM,Qualcomm Inc,$130B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,116.40,S&P 500,5.88%,-7.40%,-57.28%,-14.77%
+BIIB,Biogen Inc,$43B (Large),Health Care,Biotechnology,Biotechnology,293.95,S&P 500,6.15%,-6.51%,15.17%,46.98%
+ESS,Essex Property Trust Inc,$14B (Mid),Real Estate,Residential REITs,Multi-Family Residential REITs,225.00,S&P 500,6.17%,-3.44%,--,-17.21%
+LYB,LyondellBasell Industries NV,$29B (Mid),Materials,Chemicals,Commodity Chemicals,88.27,S&P 500,6.31%,-5.26%,3.63%,-13.78%
+PCG,PG&E Corp,$43B (Large),Utilities,Electric Utilities,Electric Utilities,17.29,S&P 500,6.33%,-6.54%,12.90%,41.14%
+WM,Waste Management Inc,$68B (Large),Industrials,Commercial Services & Supplies,Environmental & Facilities Services,166.91,S&P 500,6.39%,-7.23%,-6.96%,7.49%
+UDR,UDR Inc,$14B (Mid),Real Estate,Residential REITs,Multi-Family Residential REITs,41.21,S&P 500,6.40%,-3.61%,--,-10.63%
+UHS,Universal Health Services Inc,$11B (Mid),Health Care,Health Care Providers & Services,Health Care Facilities,149.95,S&P 500,6.43%,-6.52%,14.12%,24.98%
+APH,Amphenol Corp,$48B (Large),Information Technology,"Electronic Equipment, Instruments & Components",Electronic Components,81.05,S&P 500,6.45%,-6.01%,-2.16%,18.64%
+YUM,Yum! Brands Inc,$38B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,136.34,S&P 500,6.45%,-6.11%,-10.95%,16.32%
+RE,Everest Re Group Ltd,$15B (Mid),Financials,Insurance,Reinsurance,353.43,S&P 500,6.69%,-6.59%,9.78%,29.52%
+CSX,CSX Corp,$67B (Large),Industrials,Ground Transportation,Rail Transportation,33.11,S&P 500,6.88%,-5.95%,3.95%,4.86%
+ROP,Roper Technologies Inc,$49B (Large),Information Technology,Software,Application Software,462.02,S&P 500,6.93%,-7.12%,-32.33%,7.92%
+VRSN,Verisign Inc,$23B (Mid),Information Technology,IT Services,Internet Services & Infrastructure,220.27,S&P 500,7.22%,-5.67%,-3.36%,26.32%
+CSCO,Cisco Systems Inc,$208B (Large),Information Technology,Communications Equipment,Communications Equipment,51.12,S&P 500,7.30%,-6.13%,-0.34%,16.89%
+ATVI,Activision Blizzard Inc,$65B (Large),Communication Services,Entertainment,Interactive Home Entertainment,82.30,S&P 500,7.51%,-7.01%,-11.48%,6.32%
+LOW,Lowe's Companies Inc,$126B (Large),Consumer Discretionary,Specialty Retail,Home Improvement Retail,214.82,S&P 500,7.82%,-5.43%,7.80%,14.45%
+GLW,Corning Inc,$29B (Mid),Information Technology,"Electronic Equipment, Instruments & Components",Electronic Components,34.45,S&P 500,7.86%,-5.22%,-0.75%,0.48%
+CTAS,Cintas Corp,$50B (Large),Industrials,Commercial Services & Supplies,Diversified Support Services,487.27,S&P 500,7.89%,-5.26%,-5.46%,25.97%
+ICE,Intercontinental Exchange Inc,$62B (Large),Financials,Capital Markets,Financial Exchanges & Data,110.68,S&P 500,7.89%,-4.67%,11.13%,10.66%
+BA,Boeing Co,$124B (Large),Industrials,Aerospace & Defense,Aerospace & Defense,205.61,S&P 500,7.94%,-2.08%,9.10%,57.37%
+REGN,Regeneron Pharmaceuticals Inc,$86B (Large),Health Care,Biotechnology,Biotechnology,779.81,S&P 500,8.08%,-5.07%,17.10%,18.35%
+CME,CME Group Inc,$66B (Large),Financials,Capital Markets,Financial Exchanges & Data,182.10,S&P 500,8.29%,-5.02%,11.53%,-3.58%
+FOX,Fox Corp,-- ,Communication Services,Media,Broadcasting,30.82,S&P 500,8.33%,--,-0.36%,-2.63%
+FOXA,Fox Corp,$9B (Mid),Communication Services,Media,Broadcasting,32.90,S&P 500,8.33%,-3.89%,-0.35%,-4.26%
+EIX,Edison International,$26B (Mid),Utilities,Electric Utilities,Electric Utilities,69.09,S&P 500,8.60%,-3.61%,15.17%,3.61%
+MA,Mastercard Inc,$358B (Large),Financials,Financial Services,Transaction & Payment Processing Services,377.80,S&P 500,8.65%,-4.87%,4.76%,6.48%
+PNW,Pinnacle West Capital Corp,$9B (Mid),Utilities,Electric Utilities,Electric Utilities,82.67,S&P 500,8.72%,-3.86%,15.29%,11.91%
+EQR,Equity Residential,$24B (Mid),Real Estate,Residential REITs,Multi-Family Residential REITs,64.18,S&P 500,8.78%,-2.35%,--,-13.16%
+HOLX,Hologic Inc,$20B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Equipment,81.48,S&P 500,8.92%,-4.27%,-3.05%,9.15%
+GM,General Motors Co,$51B (Large),Consumer Discretionary,Automobiles,Automobile Manufacturers,36.66,S&P 500,8.98%,-3.24%,-81.62%,-3.28%
+BRK/B,Berkshire Hathaway Inc,-- ,Financials,Financial Services,Multi-Sector Holdings,336.96,S&P 500,9.08%,--,5.20%,7.93%
+CTSH,Cognizant Technology Solutions Corp,$32B (Mid),Information Technology,IT Services,IT Consulting & Other Services,62.60,S&P 500,9.46%,-2.84%,-1.12%,-14.13%
+CBOE,Cboe Global Markets Inc,$15B (Mid),Financials,Capital Markets,Financial Exchanges & Data,137.41,S&P 500,9.52%,-4.31%,12.76%,24.17%
+NRG,NRG Energy Inc,$8B (Mid),Utilities,Electric Utilities,Electric Utilities,34.92,S&P 500,9.74%,-6.36%,16.31%,-20.13%
+ITW,Illinois Tool Works Inc,$74B (Large),Industrials,Machinery,Industrial Machinery & Supplies & Components,241.98,S&P 500,9.84%,-2.22%,2.70%,20.46%
+WMT,Walmart Inc,$419B (Large),Consumer Staples,Consumer Staples Distribution & Retail,Consumer Staples Merchandise Retail,155.75,S&P 500,9.85%,-4.19%,5.84%,26.15%
+OTIS,Otis Worldwide Corp,$36B (Mid),Industrials,Machinery,Industrial Machinery & Supplies & Components,86.07,S&P 500,9.91%,-2.29%,2.77%,18.09%
+V,Visa Inc,$468B (Large),Financials,Financial Services,Transaction & Payment Processing Services,228.39,S&P 500,9.93%,-3.80%,6.05%,9.66%
+TT,Trane Technologies PLC,$42B (Large),Industrials,Building Products,Building Products,184.86,S&P 500,9.98%,-2.70%,-8.71%,38.56%
+IRM,Iron Mountain Inc,$16B (Mid),Real Estate,Specialized REITs,Other Specialized REITs,54.85,S&P 500,10.03%,-2.00%,--,8.84%
+MSI,Motorola Solutions Inc,$48B (Large),Information Technology,Communications Equipment,Communications Equipment,283.68,S&P 500,10.08%,-4.05%,2.44%,32.58%
+BALL,Ball Corp,$18B (Mid),Materials,Containers & Packaging,"Metal, Glass & Plastic Containers",56.35,S&P 500,10.19%,-4.57%,16.30%,-19.77%
+EXPD,Expeditors International of Washington Inc,$18B (Mid),Industrials,Air Freight & Logistics,Air Freight & Logistics,114.60,S&P 500,10.28%,-2.07%,2.52%,7.54%
+MMC,Marsh & McLennan Companies Inc,$90B (Large),Financials,Insurance,Insurance Brokers,182.62,S&P 500,10.36%,-3.71%,13.45%,18.45%
+FTV,Fortive Corp,$25B (Mid),Industrials,Machinery,Industrial Machinery & Supplies & Components,70.94,S&P 500,10.41%,-2.51%,3.27%,16.09%
+ORLY,O'Reilly Automotive Inc,$57B (Large),Consumer Discretionary,Specialty Retail,Automotive Retail,932.55,S&P 500,10.49%,-2.27%,10.47%,49.30%
+ALLE,Allegion PLC,$10B (Mid),Industrials,Building Products,Building Products,116.39,S&P 500,10.57%,-0.22%,-8.12%,6.19%
+ADSK,Autodesk Inc,$44B (Large),Information Technology,Software,Application Software,206.70,S&P 500,10.61%,-2.12%,-28.65%,-0.33%
+MDLZ,Mondelez International Inc,$100B (Large),Consumer Staples,Food Products,Packaged Foods & Meats,73.74,S&P 500,10.64%,-3.49%,12.89%,20.01%
+HPQ,HP Inc,$29B (Mid),Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",29.80,S&P 500,10.90%,-2.30%,--,-22.95%
+AON,Aon PLC,$68B (Large),Financials,Insurance,Insurance Brokers,333.39,S&P 500,11.08%,-3.35%,14.17%,24.13%
+MCK,Mckesson Corp,$57B (Large),Health Care,Health Care Providers & Services,Health Care Distributors,417.21,S&P 500,11.22%,-2.83%,18.91%,30.24%
+MCD,McDonald's Corp,$214B (Large),Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,293.30,S&P 500,11.30%,-1.71%,-6.10%,20.96%
+QRVO,Qorvo Inc,$10B (Mid),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,101.02,S&P 500,11.45%,-2.19%,-51.71%,-7.82%
+CZR,Caesars Entertainment Inc,$10B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,46.40,"Russell 2000, S&P 500",11.54%,2.39%,-5.86%,-6.38%
+HLT,Hilton Worldwide Holdings Inc,$37B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",141.07,S&P 500,11.64%,-1.76%,-5.76%,2.36%
+AME,AMETEK Inc,$36B (Mid),Industrials,Electrical Equipment,Electrical Components & Equipment,156.03,S&P 500,11.67%,-1.45%,-1.33%,30.67%
+DXCM,Dexcom Inc,$49B (Large),Health Care,Health Care Equipment & Supplies,Health Care Equipment,126.52,S&P 500,11.73%,-0.70%,-0.24%,78.29%
+CLX,Clorox Co,$19B (Mid),Consumer Staples,Household Products,Household Products,156.84,S&P 500,11.77%,-2.08%,11.24%,15.10%
+CSGP,CoStar Group Inc,$35B (Mid),Industrials,Professional Services,Research & Consulting Services,86.40,S&P 500,11.80%,-0.33%,8.53%,41.11%
+PPG,PPG Industries Inc,$33B (Mid),Materials,Chemicals,Specialty Chemicals,140.77,S&P 500,11.95%,-0.44%,9.27%,14.48%
+GRMN,Garmin Ltd,$20B (Mid),Consumer Discretionary,Household Durables,Consumer Electronics,103.40,S&P 500,12.04%,-0.33%,-16.82%,3.75%
+HSY,Hershey Co,$53B (Large),Consumer Staples,Food Products,Packaged Foods & Meats,260.31,S&P 500,12.41%,-1.68%,14.66%,26.32%
+MDT,Medtronic PLC,$116B (Large),Health Care,Health Care Equipment & Supplies,Health Care Equipment,87.41,S&P 500,12.47%,-0.06%,0.50%,-6.88%
+TPR,Tapestry Inc,$10B (Mid),Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",42.92,S&P 500,12.71%,-0.18%,16.72%,30.62%
+COO,Cooper Companies Inc,$18B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Supplies,373.06,S&P 500,12.82%,-1.40%,0.85%,8.72%
+AJG,Arthur J. Gallagher & Co.,$46B (Large),Financials,Insurance,Insurance Brokers,212.82,S&P 500,12.88%,-0.66%,15.97%,34.49%
+MKC,McCormick & Company Inc,$24B (Mid),Consumer Staples,Food Products,Packaged Foods & Meats,93.75,S&P 500,13.10%,-1.00%,15.36%,5.31%
+URI,United Rentals Inc,$28B (Mid),Industrials,Trading Companies & Distributors,Trading Companies & Distributors,402.47,S&P 500,13.24%,2.46%,-8.50%,38.18%
+INVH,Invitation Homes Inc,$21B (Mid),Real Estate,Residential REITs,Single-Family Residential REITs,33.57,S&P 500,13.26%,1.42%,--,-9.20%
+ABC,Amerisourcebergen Corp,$38B (Mid),Health Care,Health Care Providers & Services,Health Care Distributors,187.87,S&P 500,13.37%,-1.37%,21.06%,26.77%
+ZBH,Zimmer Biomet Holdings Inc,$30B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Equipment,144.58,S&P 500,13.40%,-1.44%,1.43%,22.22%
+ADI,Analog Devices Inc,$93B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,186.11,S&P 500,13.46%,-0.57%,-49.70%,15.08%
+SWKS,Skyworks Solutions Inc,$17B (Mid),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,103.74,S&P 500,13.84%,0.62%,-49.32%,-0.91%
+ROL,Rollins Inc,$20B (Mid),Industrials,Commercial Services & Supplies,Environmental & Facilities Services,41.60,S&P 500,13.85%,-0.79%,0.49%,20.39%
+AXP,American Express Co,$125B (Large),Financials,Consumer Finance,Consumer Finance,168.26,S&P 500,13.88%,-0.05%,1.09%,3.01%
+EQIX,Equinix Inc,$70B (Large),Real Estate,Specialized REITs,Data Center REITs,746.99,S&P 500,14.04%,3.11%,--,12.10%
+BWA,Borgwarner Inc,$11B (Mid),Consumer Discretionary,Automobile Components,Automotive Parts & Equipment,45.91,S&P 500,14.06%,1.19%,5.36%,16.23%
+LIN,Linde PLC,$182B (Large),Materials,Chemicals,Industrial Gases,372.64,S&P 500,14.24%,-0.06%,11.56%,18.79%
+RSG,Republic Services Inc,$47B (Large),Industrials,Commercial Services & Supplies,Environmental & Facilities Services,147.62,S&P 500,14.44%,-0.21%,1.09%,11.81%
+AVB,Avalonbay Communities Inc,$26B (Mid),Real Estate,Residential REITs,Multi-Family Residential REITs,184.99,S&P 500,14.53%,3.12%,--,-7.54%
+COST,Costco Wholesale Corp,$232B (Large),Consumer Staples,Consumer Staples Distribution & Retail,Consumer Staples Merchandise Retail,524.20,S&P 500,14.83%,0.11%,10.83%,15.55%
+STE,STERIS plc,$21B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Equipment,212.23,S&P 500,14.91%,0.99%,2.94%,-3.02%
+COF,Capital One Financial Corp,$41B (Mid),Financials,Consumer Finance,Consumer Finance,106.91,S&P 500,15.01%,2.44%,2.21%,-12.42%
+ACN,Accenture PLC,$194B (Large),Information Technology,IT Services,IT Consulting & Other Services,307.25,S&P 500,15.14%,3.23%,4.56%,4.54%
+ACGL,Arch Capital Group Ltd,$27B (Mid),Financials,Insurance,Property & Casualty Insurance,72.61,S&P 500,15.66%,0.54%,18.75%,55.25%
+ALK,Alaska Air Group Inc,$6B (Small),Industrials,Passenger Airlines,Passenger Airlines,49.67,S&P 500,15.67%,1.55%,-8.88%,6.66%
+INTU,Intuit Inc,$126B (Large),Information Technology,Software,Application Software,450.84,S&P 500,15.83%,1.80%,-23.43%,11.21%
+POOL,Pool Corp,$14B (Mid),Consumer Discretionary,Distributors,Distributors,350.28,S&P 500,15.86%,3.77%,14.90%,-9.80%
+BRO,Brown & Brown Inc,$19B (Mid),Financials,Insurance,Insurance Brokers,66.01,S&P 500,15.87%,2.50%,18.96%,14.62%
+SPGI,S&P Global Inc,$125B (Large),Financials,Capital Markets,Financial Exchanges & Data,388.24,S&P 500,15.91%,2.17%,19.15%,18.08%
+CARR,Carrier Global Corp,$40B (Mid),Industrials,Building Products,Building Products,47.86,S&P 500,16.02%,2.81%,-2.67%,25.54%
+CMCSA,Comcast Corp,$169B (Large),Communication Services,Media,Cable & Satellite,40.58,S&P 500,16.04%,2.16%,7.36%,-4.72%
+SWK,Stanley Black & Decker Inc,$13B (Mid),Industrials,Machinery,Industrial Machinery & Supplies & Components,87.20,S&P 500,16.08%,3.71%,8.94%,-20.41%
+ZTS,Zoetis Inc,$79B (Large),Health Care,Pharmaceuticals,Pharmaceuticals,170.16,S&P 500,16.11%,1.95%,17.85%,2.74%
+RL,Ralph Lauren Corp,$8B (Mid),Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",122.78,S&P 500,16.19%,2.91%,20.20%,25.09%
+NUE,Nucor Corp,$39B (Mid),Materials,Metals & Mining,Steel,153.33,S&P 500,16.33%,1.35%,11.97%,19.26%
+STX,Seagate Technology Holdings PLC,$13B (Mid),Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",61.23,S&P 500,16.38%,2.93%,--,-22.51%
+EFX,Equifax Inc,$28B (Mid),Industrials,Professional Services,Research & Consulting Services,226.45,S&P 500,16.51%,3.51%,13.24%,14.92%
+ODFL,Old Dominion Freight Line Inc,$36B (Mid),Industrials,Ground Transportation,Cargo Ground Transportation,330.91,S&P 500,16.61%,1.23%,13.68%,29.14%
+EQT,EQT Corp,$14B (Mid),Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,39.46,S&P 500,16.64%,3.42%,27.07%,-19.46%
+OMC,Omnicom Group Inc,$19B (Mid),Communication Services,Media,Advertising,95.15,S&P 500,16.65%,1.89%,7.96%,36.42%
+IPG,Interpublic Group of Companies Inc,$15B (Mid),Communication Services,Media,Advertising,38.97,S&P 500,16.99%,4.42%,8.31%,28.63%
+TEL,TE Connectivity Ltd,$42B (Large),Information Technology,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,134.51,S&P 500,17.17%,4.04%,8.57%,6.82%
+DRI,Darden Restaurants Inc,$20B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,162.13,S&P 500,17.21%,5.80%,-0.19%,35.59%
+MNST,Monster Beverage Corp,$62B (Large),Consumer Staples,Beverages,Soft Drinks & Non-alcoholic Beverages,59.69,S&P 500,17.58%,1.19%,15.46%,35.58%
+MAR,Marriott International Inc,$54B (Large),Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",175.69,S&P 500,18.00%,4.03%,0.60%,4.00%
+DFS,Discover Financial Services,$29B (Mid),Financials,Consumer Finance,Consumer Finance,115.48,S&P 500,18.04%,4.55%,5.25%,6.34%
+BSX,Boston Scientific Corp,$79B (Large),Health Care,Health Care Equipment & Supplies,Health Care Equipment,54.64,S&P 500,18.09%,2.56%,6.12%,36.87%
+HWM,Howmet Aerospace Inc,$19B (Mid),Industrials,Aerospace & Defense,Aerospace & Defense,46.56,S&P 500,18.14%,5.24%,19.31%,30.96%
+BR,Broadridge Financial Solutions Inc,$19B (Mid),Industrials,Professional Services,Data Processing & Outsourced Services,158.55,S&P 500,18.21%,4.70%,14.93%,12.21%
+MCHP,Microchip Technology Inc,$45B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,83.12,S&P 500,18.32%,3.86%,-44.84%,18.90%
+PCAR,Paccar Inc,$41B (Mid),Industrials,Machinery,Construction Machinery & Heavy Transportation Equipment,78.11,S&P 500,18.38%,4.66%,11.25%,37.97%
+AXON,Axon Enterprise Inc,$15B (Mid),Industrials,Aerospace & Defense,Aerospace & Defense,196.92,S&P 500,18.68%,4.70%,19.84%,98.21%
+MAS,Masco Corp,$12B (Mid),Industrials,Building Products,Building Products,55.39,S&P 500,18.68%,5.85%,-0.01%,1.76%
+PTC,PTC Inc,$17B (Mid),Information Technology,Software,Application Software,142.71,S&P 500,18.89%,4.01%,-20.37%,22.58%
+FI,Fiserv Inc,$74B (Large),Financials,Financial Services,Transaction & Payment Processing Services,120.54,S&P 500,19.26%,4.45%,15.38%,21.56%
+WELL,Welltower Inc,$39B (Mid),Real Estate,Health Care REITs,Health Care REITs,78.46,S&P 500,19.69%,5.98%,--,-8.06%
+SNA,Snap-On Inc,$14B (Mid),Industrials,Machinery,Industrial Machinery & Supplies & Components,273.54,S&P 500,19.72%,5.03%,12.58%,29.40%
+IDXX,IDEXX Laboratories Inc,$41B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Equipment,490.72,S&P 500,20.29%,4.73%,8.32%,32.76%
+CAH,Cardinal Health Inc,$24B (Mid),Health Care,Health Care Providers & Services,Health Care Distributors,92.52,S&P 500,20.36%,5.25%,28.05%,71.93%
+FAST,Fastenal Co,$33B (Mid),Industrials,Trading Companies & Distributors,Trading Companies & Distributors,56.96,S&P 500,20.37%,7.13%,-1.36%,8.50%
+MCO,Moody's Corp,$62B (Large),Financials,Capital Markets,Financial Exchanges & Data,335.84,S&P 500,20.54%,6.86%,23.78%,20.09%
+VRTX,Vertex Pharmaceuticals Inc,$90B (Large),Health Care,Biotechnology,Biotechnology,348.16,S&P 500,20.56%,4.54%,29.58%,29.23%
+AOS,A O Smith Corp,$10B (Mid),Industrials,Building Products,Building Products,69.04,S&P 500,20.61%,7.32%,1.92%,16.52%
+LVS,Las Vegas Sands Corp,$44B (Large),Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,58.14,S&P 500,20.95%,6.70%,3.55%,65.36%
+CHD,Church & Dwight Co Inc,$24B (Mid),Consumer Staples,Household Products,Household Products,97.55,S&P 500,21.01%,5.12%,20.49%,11.79%
+WDC,Western Digital Corp,$12B (Mid),Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",38.35,S&P 500,21.55%,7.10%,--,-36.38%
+IR,Ingersoll Rand Inc,$26B (Mid),Industrials,Machinery,Industrial Machinery & Supplies & Components,63.52,S&P 500,21.57%,7.94%,14.43%,34.62%
+SYK,Stryker Corp,$113B (Large),Health Care,Health Care Equipment & Supplies,Health Care Equipment,297.89,S&P 500,21.84%,7.04%,9.87%,32.32%
+VMC,Vulcan Materials Co,$28B (Mid),Materials,Construction Materials,Construction Materials,213.45,S&P 500,21.89%,5.76%,-5.12%,30.91%
+F,Ford Motor Co,$57B (Large),Consumer Discretionary,Automobiles,Automobile Manufacturers,14.19,S&P 500,22.01%,11.39%,-68.59%,15.03%
+XRAY,DENTSPLY SIRONA Inc,$8B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Supplies,38.89,S&P 500,22.14%,7.64%,10.17%,1.17%
+NTAP,NetApp Inc,$16B (Mid),Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",73.37,S&P 500,22.16%,6.38%,--,4.42%
+ROK,Rockwell Automation Inc,$36B (Mid),Industrials,Electrical Equipment,Electrical Components & Equipment,314.98,S&P 500,22.29%,9.52%,9.28%,47.70%
+EW,Edwards Lifesciences Corp,$55B (Large),Health Care,Health Care Equipment & Supplies,Health Care Equipment,91.33,S&P 500,22.41%,7.37%,10.44%,-6.17%
+EXPE,Expedia Group Inc,$16B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",107.33,S&P 500,22.52%,5.43%,5.12%,-14.97%
+HCA,HCA Healthcare Inc,$81B (Large),Health Care,Health Care Providers & Services,Health Care Facilities,294.40,S&P 500,22.69%,5.18%,30.38%,44.07%
+NXPI,NXP Semiconductors NV,$51B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,194.65,S&P 500,23.17%,7.56%,-39.98%,8.30%
+TER,Teradyne Inc,$17B (Mid),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Materials & Equipment,107.80,S&P 500,23.41%,7.62%,-39.75%,1.55%
+ISRG,Intuitive Surgical Inc,$115B (Large),Health Care,Health Care Equipment & Supplies,Health Care Equipment,327.62,S&P 500,23.47%,7.30%,11.50%,51.40%
+ECL,Ecolab Inc,$51B (Large),Materials,Chemicals,Specialty Chemicals,179.87,S&P 500,23.57%,9.22%,20.89%,12.31%
+INTC,Intel Corp,$136B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,32.71,S&P 500,23.76%,9.48%,-39.40%,-22.84%
+TYL,Tyler Technologies Inc,$17B (Mid),Information Technology,Software,Application Software,399.25,S&P 500,23.83%,6.98%,-15.43%,15.43%
+KLAC,KLA Corp,$64B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Materials & Equipment,467.38,S&P 500,23.96%,6.47%,-39.19%,32.70%
+GNRC,Generac Holdings Inc,$8B (Mid),Industrials,Electrical Equipment,Electrical Components & Equipment,124.81,S&P 500,23.99%,14.91%,10.98%,-48.82%
+ETN,Eaton Corporation PLC,$78B (Large),Industrials,Electrical Equipment,Electrical Components & Equipment,195.60,S&P 500,24.63%,9.18%,11.62%,44.99%
+FSLR,First Solar Inc,$20B (Mid),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,187.08,S&P 500,24.89%,8.37%,-38.26%,163.98%
+LLY,Eli Lilly and Co,$434B (Large),Health Care,Pharmaceuticals,Pharmaceuticals,457.68,S&P 500,25.10%,8.90%,26.85%,48.88%
+ANET,Arista Networks Inc,$47B (Large),Information Technology,Communications Equipment,Communications Equipment,153.24,S&P 500,26.28%,9.81%,18.64%,50.72%
+MGM,MGM Resorts International,$15B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,42.50,S&P 500,26.75%,12.60%,9.35%,24.33%
+LYV,Live Nation Entertainment Inc,$20B (Mid),Communication Services,Entertainment,Movies & Entertainment,88.80,S&P 500,27.33%,11.79%,8.34%,-6.04%
+PH,Parker-Hannifin Corp,$48B (Large),Industrials,Machinery,Industrial Machinery & Supplies & Components,371.01,S&P 500,27.49%,13.11%,20.36%,38.55%
+WBD,Warner Bros Discovery Inc,$29B (Mid),Communication Services,Entertainment,Movies & Entertainment,12.09,S&P 500,27.53%,14.76%,8.54%,-31.54%
+WYNN,Wynn Resorts Ltd,$12B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,105.32,S&P 500,27.71%,13.41%,10.31%,62.07%
+AAL,American Airlines Group Inc,$11B (Mid),Industrials,Passenger Airlines,Passenger Airlines,16.36,S&P 500,28.62%,12.70%,4.07%,-5.38%
+KMX,Carmax Inc,$12B (Mid),Consumer Discretionary,Specialty Retail,Automotive Retail,78.32,S&P 500,28.63%,13.09%,28.61%,-20.46%
+LW,Lamb Weston Holdings Inc,$17B (Mid),Consumer Staples,Food Products,Packaged Foods & Meats,115.00,S&P 500,28.69%,11.57%,30.95%,74.69%
+TAP,Molson Coors Beverage Co,$13B (Mid),Consumer Staples,Beverages,Brewers,66.47,S&P 500,29.02%,13.59%,26.89%,25.89%
+VRSK,Verisk Analytics Inc,$33B (Mid),Industrials,Professional Services,Research & Consulting Services,228.01,S&P 500,29.24%,13.27%,25.97%,34.33%
+MLM,Martin Marietta Materials Inc,$27B (Mid),Materials,Construction Materials,Construction Materials,439.22,S&P 500,29.96%,12.39%,2.94%,31.25%
+DAL,Delta Air Lines Inc,$28B (Mid),Industrials,Passenger Airlines,Passenger Airlines,42.94,S&P 500,30.68%,14.52%,6.13%,8.60%
+FLT,Fleetcor Technologies Inc,$18B (Mid),Financials,Financial Services,Transaction & Payment Processing Services,240.99,S&P 500,31.20%,16.36%,27.32%,-0.71%
+NVR,NVR Inc,$20B (Mid),Consumer Discretionary,Household Durables,Homebuilding,6062.57,S&P 500,31.44%,14.89%,2.57%,38.17%
+FICO,Fair Isaac Corp,$20B (Mid),Information Technology,Software,Application Software,786.85,S&P 500,31.45%,16.15%,-7.81%,93.69%
+GWW,WW Grainger Inc,$37B (Mid),Industrials,Trading Companies & Distributors,Trading Companies & Distributors,735.93,S&P 500,32.30%,17.33%,10.57%,50.57%
+DVA,DaVita Inc,$9B (Mid),Health Care,Health Care Providers & Services,Health Care Services,98.96,S&P 500,32.53%,15.05%,40.22%,3.73%
+MU,Micron Technology Inc,$73B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,66.25,S&P 500,32.55%,15.78%,-30.60%,-9.17%
+PWR,Quanta Services Inc,$27B (Mid),Industrials,Construction & Engineering,Construction & Engineering,189.31,S&P 500,32.85%,17.84%,16.74%,58.40%
+BKNG,Booking Holdings Inc,$99B (Large),Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",2677.90,S&P 500,32.88%,15.38%,15.48%,19.63%
+SNPS,Synopsys Inc,$65B (Large),Information Technology,Software,Application Software,426.13,S&P 500,33.46%,17.43%,-5.80%,34.49%
+PNR,Pentair PLC,$10B (Mid),Industrials,Machinery,Industrial Machinery & Supplies & Components,60.23,S&P 500,33.90%,18.90%,26.77%,23.70%
+LEN,Lennar Corp,$35B (Mid),Consumer Discretionary,Household Durables,Homebuilding,121.32,S&P 500,34.06%,18.22%,5.19%,54.94%
+DHI,DR Horton Inc,$41B (Mid),Consumer Discretionary,Household Durables,Homebuilding,119.63,S&P 500,34.20%,17.37%,5.34%,61.08%
+FDX,FedEx Corp,$59B (Large),Industrials,Air Freight & Logistics,Air Freight & Logistics,232.93,S&P 500,34.49%,14.68%,26.73%,9.59%
+ANSS,ANSYS Inc,$28B (Mid),Information Technology,Software,Application Software,325.68,S&P 500,34.81%,18.33%,-4.45%,27.76%
+TDG,TransDigm Group Inc,$47B (Large),Industrials,Aerospace & Defense,Aerospace & Defense,850.59,S&P 500,35.09%,18.44%,36.25%,45.78%
+TTWO,Take-Two Interactive Software Inc,$24B (Mid),Communication Services,Entertainment,Interactive Home Entertainment,141.18,S&P 500,35.58%,18.63%,16.59%,13.28%
+GEHC,GE Healthcare Technologies Inc,$36B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Equipment,80.21,S&P 500,37.39%,19.94%,25.43%,--
+GOOGL,Alphabet Inc,$840B (Large),Communication Services,Interactive Media & Services,Interactive Media & Services,123.15,S&P 500,39.58%,20.16%,-19.64%,8.13%
+GOOG,Alphabet Inc,-- ,Communication Services,Interactive Media & Services,Interactive Media & Services,123.87,S&P 500,39.60%,--,-19.62%,8.53%
+UAL,United Airlines Holdings Inc,$17B (Mid),Industrials,Passenger Airlines,Passenger Airlines,53.05,S&P 500,40.72%,23.29%,16.17%,16.62%
+CDNS,Cadence Design Systems Inc,$62B (Large),Information Technology,Software,Application Software,227.00,S&P 500,41.31%,24.83%,2.05%,48.15%
+NOW,ServiceNow Inc,$112B (Large),Information Technology,Software,Systems Software,549.87,S&P 500,41.62%,23.86%,2.36%,15.73%
+MSFT,Microsoft Corp,$3T (Large),Information Technology,Software,Systems Software,339.71,S&P 500,41.65%,22.32%,2.39%,25.91%
+ADBE,Adobe Inc,$219B (Large),Information Technology,Software,Application Software,477.58,S&P 500,41.91%,24.78%,2.65%,14.21%
+ON,ON Semiconductor Corp,$38B (Mid),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,88.95,S&P 500,42.62%,24.19%,-20.54%,50.08%
+AMAT,Applied Materials Inc,$117B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Materials & Equipment,138.92,S&P 500,42.66%,23.43%,-20.50%,22.58%
+NFLX,Netflix Inc,$188B (Large),Communication Services,Entertainment,Movies & Entertainment,422.48,S&P 500,43.27%,26.59%,24.28%,119.00%
+AAPL,Apple Inc,$3T (Large),Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",187.00,S&P 500,43.92%,24.52%,--,26.50%
+MPWR,Monolithic Power Systems Inc,$24B (Mid),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,512.24,S&P 500,44.86%,25.62%,-18.30%,15.21%
+CPRT,Copart Inc,$43B (Large),Industrials,Commercial Services & Supplies,Diversified Support Services,89.30,S&P 500,46.66%,28.56%,33.30%,58.18%
+FTNT,Fortinet Inc,$56B (Large),Information Technology,Software,Systems Software,71.86,S&P 500,46.98%,27.92%,7.72%,24.30%
+LRCX,Lam Research Corp,$83B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Materials & Equipment,619.87,S&P 500,47.48%,26.76%,-15.68%,24.70%
+ORCL,Oracle Corp,$327B (Large),Information Technology,Software,Systems Software,120.58,S&P 500,47.52%,31.37%,8.26%,71.38%
+CMG,Chipotle Mexican Grill Inc,$57B (Large),Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,2050.52,S&P 500,47.79%,31.49%,30.39%,49.16%
+AVGO,Broadcom Inc,$348B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,842.43,S&P 500,50.67%,33.33%,-12.49%,52.46%
+AMZN,Amazon.com Inc,$1T (Large),Consumer Discretionary,Broadline Retail,Broadline Retail,130.15,S&P 500,54.94%,30.70%,29.11%,6.96%
+NCLH,Norwegian Cruise Line Holdings Ltd,$8B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",19.08,S&P 500,55.88%,38.10%,38.48%,24.79%
+WST,West Pharmaceutical Services Inc,$27B (Mid),Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,368.67,S&P 500,56.65%,37.85%,62.69%,19.79%
+ALGN,Align Technology Inc,$26B (Mid),Health Care,Health Care Equipment & Supplies,Health Care Supplies,334.40,S&P 500,58.56%,37.91%,46.59%,26.11%
+GE,General Electric Co,$114B (Large),Industrials,Industrial Conglomerates,Industrial Conglomerates,104.82,S&P 500,60.31%,41.30%,51.56%,74.03%
+CRM,Salesforce Inc,$208B (Large),Information Technology,Software,Application Software,213.29,S&P 500,60.86%,39.02%,21.61%,21.14%
+PHM,Pultegroup Inc,$17B (Mid),Consumer Discretionary,Household Durables,Homebuilding,76.05,S&P 500,67.03%,46.32%,38.17%,71.99%
+AMD,Advanced Micro Devices Inc,$178B (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,110.70,S&P 500,70.91%,52.23%,7.75%,9.37%
+PANW,Palo Alto Networks Inc,$76B (Large),Information Technology,Software,Systems Software,249.15,S&P 500,78.55%,50.58%,39.29%,48.97%
+CCL,Carnival Corp,$18B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",15.76,S&P 500,95.53%,73.38%,78.14%,17.00%
+RCL,Royal Caribbean Cruises Ltd,$25B (Mid),Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",97.41,S&P 500,97.07%,73.21%,79.67%,75.29%
+TSLA,Tesla Inc,$839B (Large),Consumer Discretionary,Automobiles,Automobile Manufacturers,264.61,S&P 500,114.82%,85.25%,24.21%,7.22%
+META,Meta Platforms Inc,$730B (Large),Communication Services,Interactive Media & Services,Interactive Media & Services,284.88,S&P 500,136.73%,105.83%,77.51%,51.02%
+NVDA,NVIDIA Corp,$1T (Large),Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,430.25,S&P 500,194.41%,159.05%,131.25%,135.10%
